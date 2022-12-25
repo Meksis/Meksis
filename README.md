@@ -13,7 +13,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Frontend</h3>
+<h3 align="left">>Frontend</h3>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -28,13 +28,21 @@
 </a> 
 
 
-<h3 align="left">Backend</h3>
+<h3 align="left">>Backend</h3>
 
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
 </a> 
 
-<h3 align="left">Other platforms</h3>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  </a> 
+ 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+
+<h3 align="left">>Other platforms</h3>
 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -61,7 +69,7 @@
  </a> 
 
 
-<h3 align="left">DBs</h3>
+<h3 align="left">>DBs</h3>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
@@ -76,42 +84,27 @@
   
 <h4 align="left">>>Neo4j</h4>
 
+<h4 align="left">Neo4j</h4>
 
+<h4 align="left">>Languages</h4>
+
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  
-  
-   
-  
-  
 
-  
-
-  
-
+<h4 align="left">>ML and DS</h4>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
   </a> 
 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
@@ -122,14 +115,20 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a> 
 
-  
-
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  
+  
+  
+<h4 align="left">>Tools</h4>
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
   </a> 
+  
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meksis&show_icons=true&locale=en&layout=compact" alt="meksis" /></p>
