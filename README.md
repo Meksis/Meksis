@@ -84,8 +84,6 @@
   
 <h4 align="left">>>Neo4j</h4>
 
-<h4 align="left">Neo4j</h4>
-
 <h4 align="left">>Languages</h4>
 
 
