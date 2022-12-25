@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meksis" alt="meksis" /></a> </p>
 
-- I know these DBs **Neo4j, MSQL, SQLite3**
-
-- I know these libs **Streamlit, BS4, PyQt5**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">>Frontend</h3>
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
